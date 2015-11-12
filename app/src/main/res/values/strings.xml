@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Master Car</string>
+    <string name="action_settings">Opções</string>
+    <string name="title_activity_main">MasterCar</string>
+    <string name="cidade">Escolha a cidade</string>
+    <string name="textFabricante">Fabricante</string>
+    <string name="textModelo">Modelo</string>
+    <string name="textCIdade">Cidade</string>
+    <string name="buttonOK">Consultar </string>
+    <string name="title_activity_listar_veiculos">listar Veiculos</string>
+
+    <array name="SpinnerCidade">
+        <item>Cidade</item>
+        <item>São Paulo</item>
+        <item>Rio de Janeiro</item>
+
+    </array>
+
+    <array name ="SpinnerModelo">
+        <item>Modelo</item>
+        <item>Fusion</item>
+        <item>New Fiesta hatch</item>
+        <item>New Fiesta Sedan</item>
+        <item>Ford Ka</item>
+        <item>Focus Hatch</item>
+        <item>Focus Sedan</item>
+        <item>EDGE</item>
+        <item>EcoSport</item>
+        <item>Gol</item>
+        <item>Golf</item>
+        <item>Saveiro</item>
+        <item>Saveiro</item>
+        <item>Voyage</item>
+        <item>Fusca</item>
+        <item>Passat</item>
+        <item>Touareg</item>
+
+    </array>
+    <array name = "SpinnerFabricante">
+        <item>Fabricante</item>
+        <item>Volkswagen</item>
+        <item>Ford</item>
+    </array>
+</resources>
